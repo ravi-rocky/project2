@@ -1,0 +1,103 @@
+*{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+#img1{
+    background-image: url(./perc-fx.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+     max-width:min-content;
+    border-radius: 50px;
+}
+#img2{
+    background-image: url(./perc-fx.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+     max-width:min-content;
+    border-radius: 50px;
+    position: relative;
+    top: -640px;
+    left: 500px;
+}
+#img3{
+    background-image: url(./perc-fx.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+     max-width:min-content;
+    border-radius: 50px;
+    position: relative;
+    top: -1285px;
+    left: 1000px;
+}
+#img5{
+    background-image: url(./perc-fx.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+     max-width:min-content;
+    border-radius: 50px;
+}
+#img6{
+    background-image: url(./perc-fx.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+     max-width:min-content;
+    border-radius: 50px;
+    position: relative;
+    top: -640px;
+    left: 500px;
+}
+#img4{
+    background-image: url(./perc-fx.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+     max-width:min-content;
+    border-radius: 50px;
+    position: relative;
+    top: -1285px;
+    left: 1000px;
+}
+#one{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    opacity: 1;
+
+}
+#two{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    opacity: 1;
+}
+#three{
+    position: absolute;
+    top: 680px;
+    width: 1000px;
+    height: 20px;
+}
+#four{
+
+    width: 1200px;
+}
